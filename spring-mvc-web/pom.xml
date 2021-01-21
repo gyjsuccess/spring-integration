@@ -18,7 +18,7 @@
   
   <properties>
   		<spring.version>4.2.7.RELEASE</spring.version>
-        <jackson.version>2.6.7</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <!-- mybatis版本号 -->  
         <mybatis.version>3.2.6</mybatis.version> 
         <!-- freemarker模板包版本 -->
